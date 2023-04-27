@@ -5,7 +5,7 @@ Collections Digitisation (ICEDIG), Chemistry (UPP-Portal) and Research Infrastru
 
 I’m learning and applying programming languanges and software engineering practices to support researchers in different areas. My most recent projects have included learning about chemistry data processing and analysis (UK Catalysis Hub), semantic image segmentation (ICEDIG),  Reference Model of Open Distributed Processing RM-ODP (ENVRIplus).
 
-I’m looking to collaborate on computers science research on tools and platforms for e-Science, Data Science and applied AI.
+I’m looking to collaborate on computer science research on tools and platforms for e-Science, Data Science and applied AI.
 
 You can reach me at: a_nieva at hotmail dot com.
 
